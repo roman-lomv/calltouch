@@ -96,13 +96,13 @@ create table calls (siteId String, callId String,
 После установки, скачиваем библиотеки. Опишу на примере Windows.
 Запускаем Winows PowerShell. В командной строке по очереди пишем
 
-pip install httplib2==0.21.0
-pip install apiclient==1.0.4
-pip install oauth2client==4.1.3
-pip install pandas==1.5.2
-pip install requests==2.28.1
-pip install sqlalchemy==1.4.46
-pip install urllib3==1.26.13
-pip install clickhouse-sqlalchemy==0.2.3
+<p>pip install httplib2==0.21.0<br>
+pip install apiclient==1.0.4<br>
+pip install oauth2client==4.1.3<br>
+pip install pandas==1.5.2<br>
+pip install requests==2.28.1<br>
+pip install sqlalchemy==1.4.46<br>
+pip install urllib3==1.26.13<br>
+pip install clickhouse-sqlalchemy==0.2.3</p>
 
 Все необходимые пакеты установлены и скрипт готов к работе.
